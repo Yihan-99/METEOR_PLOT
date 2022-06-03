@@ -1,2 +1,6 @@
-# meteor_plot
-Figures sample in Meteorology field
+## meteor_plot
+Figure samples in <strong>Meteorology</strong> field.
+
+I would love to record the code samples of my figures.
+
+Especially the fine-tuning parameters of each figure.
